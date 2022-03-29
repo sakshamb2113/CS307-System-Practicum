@@ -1,0 +1,4290 @@
+Thread 0 : Waiting for Spoons
+Thread 1 : Waiting for Spoons
+Thread 2 : Waiting for Spoons
+Thread 3 : Waiting for Spoons
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Waiting for Spoons
+Thread 2 : Waiting for Spoons
+Thread 3 : Waiting for Spoons
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Waiting for Spoons
+Thread 2 : Waiting for Spoons
+Thread 3 : Waiting for Spoons
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Waiting for Spoons
+Thread 2 : Waiting for Spoons
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Waiting for Spoons
+Thread 2 : Waiting for Spoons
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Waiting for Spoons
+Thread 2 : Waiting for Spoons
+Thread 3 : One spoon acquired.
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : One spoon acquired.
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : One spoon acquired.
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : One spoon acquired.
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : One spoon acquired.
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : One spoon acquired.
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : One spoon acquired.
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : One spoon acquired.
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : One spoon acquired.
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : One spoon acquired.
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : One spoon acquired.
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : One spoon acquired.
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : One spoon acquired.
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : One spoon acquired.
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : One spoon acquired.
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Waiting for Spoons
+Thread 2 : One spoon acquired.
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : One spoon acquired.
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : One spoon acquired.
+Thread 2 : One spoon acquired.
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : One spoon acquired.
+Thread 2 : One spoon acquired.
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : One spoon acquired.
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : One spoon acquired.
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Thinking (< 2 seconds)
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : One spoon acquired.
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : Waiting for Spoons
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Both spoons acquired and Eating(20 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : One spoon acquired.
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : Waiting for Spoons
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Thinking (< 2 seconds)
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Thinking (< 2 seconds)
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Both spoons acquired and Eating(20 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : One spoon acquired.
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : Waiting for Spoons
+------------------------
+Thread 0 : Thinking (< 2 seconds)
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Both spoons acquired and Eating(20 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : One spoon acquired.
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : Waiting for Spoons
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Thinking (< 2 seconds)
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Thread 0 : Waiting for Spoons
+Thread 1 : Both spoons acquired and Eating(20 seconds)
+Thread 2 : One spoon acquired.
+Thread 3 : Waiting for Spoons
+Thread 4 : Both spoons acquired and Eating(20 seconds)
+------------------------
+Eating : Thinking : Waiting
+700 : 32.6308 : 2.01863
+680 : 38.6369 : 1.92829
+720 : 42.9671 : 1.82937
+700 : 37.1162 : 1.97381
+700 : 35.0111 : 1.96658
